@@ -7,7 +7,7 @@ May 19, 2025
 
 # Introduction
 
-I am terrible at card games. My best friend is excellent at card games. In fifteen years, I haven’t beaten him at any card game. This is mostly due to both a lack of short-term memory and patience. However, AI agents excel in both of these areas. That is why I decided to create an AI agent to play SushiGo! using Monte Carlo Tree Search (MCTS) to rectify this situation. Additionally, I used machine learning to train other agents using self-play and compared their performance to the MCTS agent.
+I am terrible at card games. My best friend is excellent at card games. In fifteen years, I haven’t beaten him at any card game. This is mostly due to both a lack of working memory and patience. However, AI agents excel in both of these areas. That is why I decided to create an AI agent to play SushiGo! using Monte Carlo Tree Search (MCTS) to rectify this situation. Additionally, I used machine learning to train other agents using self-play and compared their performance to the MCTS agent.
 
 I will first briefly go over a basic explanation of the SushiGo! game and Monte Carlo Tree Search, and what makes this approach AI. Then I will introduce the reinforcement learning approach that was used, results of both agent types versus a random player, and against each other. I will discuss these results, as well as limitations, and avenues for further research. At several different points, I also consulted ChatGPT for help, and I note where this was done.
 
