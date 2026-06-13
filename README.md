@@ -11,7 +11,7 @@ I am terrible at card games. My best friend is excellent at card games. In fifte
   
 I will first briefly go over a basic explanation of the SushiGo! game and Monte Carlo Tree Search, and what makes this approach AI. Then I will introduce the reinforcement learning approach that was used, results of both agent types versus a random player, and against each other. I will discuss these results, as well as limitations, and avenues for further research. At several different points, I also consulted ChatGPT for help, and I note where this was done.  
   
-2.	Background
+## 2.	Background
 ### 2.1.	SushiGo!
 SushiGo! is a multi-player card game in which players attempt to build the highest scoring selection of cards. There are 12 card types, and different combinations of these cards yield different point values. Each turn, a player selects a card from their hand and then passes the remaining cards to the next player. The game lasts for three rounds, and scores are tallied at the end of each round. There are also special cards that are only scored at the very end of the game or round, and the player with the most gains points, while the player with the least loses points. 
   
